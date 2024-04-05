@@ -8,15 +8,3 @@
 running
 7. terminal 
 cmd    ----- streamlit run filename.py 
-
-
-
-
-
-
-
-https://teams.microsoft.com/l/message/19:meeting_OTM2MjhkNDEtMTc5Yy00M2EzLTkxNGItZjE1YTgwNWVhMmJl@thread.v2/1709967698687?context=%7B%22contextType%22%3A%22chat%22%7D
-
-
-
-https://teams.microsoft.com/l/message/19:meeting_OTM2MjhkNDEtMTc5Yy00M2EzLTkxNGItZjE1YTgwNWVhMmJl@thread.v2/1709967698687?context=%7B%22contextType%22%3A%22chat%22%7D
